@@ -1,0 +1,103 @@
+/* css */ 
+
+body {
+	background-color: #232a2b;
+	color: white;
+  font-size: 50px;
+  line-height: 20px;
+  max-width: 900px;
+  margin: 0 auto;
+ font-family: 'Lato', sans-serif;
+
+}
+
+
+
+h1 {
+  font-size: 150px;
+  line-height: 151px;
+  margin-top: 60px;
+  margin-bottom: 20px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  
+}
+
+p{
+	font-size: 18px
+
+}
+
+h2 {
+  font-size: 53px;
+  line-height: 60px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+   
+}
+
+ <style type="text/css">
+<!--
+a:link {color: #bdd3d7; text-decoration: underline; }
+a:active {color: #bdd3d7; text-decoration: underline; }
+a:visited {color: #bdd3d7; text-decoration: underline; }
+a:hover {color: #58d581; text-decoration: none;  }
+-->
+</style>
+
+h3 {
+  font-size: 28px;
+  line-height: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+h4 { 
+  font-size: 53px;
+  line-height: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+    font-family: 'Lato', sans-serif;
+   font-weight: 400;}
+
+h4 {
+	
+}
+
+
+
+h6 {  font-size: 28px;
+  line-height: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: 'Lato', sans-serif;
+   font-weight: 400;
+
+}
+
+
+p, ul, ol, pre, table, blockquote {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/* Sanitation */
+hr {
+  border: 1px solid;
+  margin: -1px 0;
+}
+ul ul, ol ol, ul ol, ol ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+b, strong, em, small, code {
+  line-height: 1;
+}
+sup, sub {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
+}
+sub {
+  top: 0.4em;
+}
+
